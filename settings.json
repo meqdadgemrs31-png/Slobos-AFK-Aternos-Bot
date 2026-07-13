@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "meqdadafk",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "meqdadafk",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "xlikedonutsmp.falix.me",
+    "port": 29566,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "robloxafk"
     },
     "anti-afk": {
       "enabled": true,
